@@ -1,0 +1,56 @@
+{
+  "version": "1.0",
+  "rver": "4.2.1",
+  "repos": [],
+  "sysreqs": [],
+  "packages": [
+    {
+      "package": "bananas",
+      "installed": false,
+      "dev": false,
+      "remote": "psolymos/bananas",
+      "source": "remote"
+    },
+    {
+      "package": "e1071",
+      "installed": false,
+      "dev": false,
+      "source": "cran"
+    },
+    {
+      "package": "ggplot2",
+      "installed": false,
+      "dev": false,
+      "source": "cran"
+    },
+    {
+      "package": "mefa4",
+      "installed": false,
+      "dev": false,
+      "source": "cran"
+    },
+    {
+      "package": "mgcv",
+      "installed": true,
+      "dev": false
+    },
+    {
+      "package": "plotly",
+      "installed": false,
+      "dev": false,
+      "source": "cran"
+    },
+    {
+      "package": "rsconnect",
+      "installed": false,
+      "dev": false,
+      "source": "cran"
+    },
+    {
+      "package": "shiny",
+      "installed": false,
+      "dev": false,
+      "source": "cran"
+    }
+  ]
+}
