@@ -118,4 +118,3 @@ plot_pred <- function(pr) {
         x = ~ripeness, y = ~probability, type = 'bar',
         marker = list(color = d$color))
 }
-
